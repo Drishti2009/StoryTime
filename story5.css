@@ -1,0 +1,11 @@
+#story5{
+    border-style: ridge;
+    border-width: 10px 10px;
+    width: 350px;
+    height: 250px;
+}
+
+p{
+    font-size: 15px;
+    width: 850px;
+}
